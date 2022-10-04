@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-swagger-dto",
-  "version": "0.0.0",
+  "name": "@meetuplol/nestjs-swagger-dto",
+  "version": "0.1.0",
   "description": "Nestjs swagger dto decorators",
   "keywords": [
     "nestjs",
@@ -16,7 +16,7 @@
   "author": "glebbash <glebbash@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glebbash/nestjs-swagger-dto"
+    "url": "https://github.com/meetuplol/nestjs-swagger-dto"
   },
   "license": "MIT",
   "engines": {
